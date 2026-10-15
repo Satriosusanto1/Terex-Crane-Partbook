@@ -1,0 +1,9 @@
+{
+  "name": "Field Service Report Beta V1.1 AI Integration",
+  "description": "FSR Android source with an AI Assistant UI and configurable server-side Gemini backend starter. Live backend configuration is required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "FSR_AI_ASSISTANT_UI"
+  ]
+}
